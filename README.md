@@ -10,8 +10,9 @@
 
 ---
 
-## ⚙️ Tech Stack
+
 <p align="center">
+  ## ⚙️ Tech Stack
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
@@ -21,16 +22,18 @@
 
 ---
 
-## 📊 GitHub Stats
+
 <p align="center">
+  ## 📊 GitHub Stats
   <img src="https://github-readme-stats.vercel.app/api?username=Buzzwavemed&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buzzwavemed&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-## 📫 Connect with Me
+
 <p align="center">
+  ## 📫 Connect with Me
   <a href="https://www.linkedin.com/in/#/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
