@@ -10,9 +10,8 @@
 
 ---
 
-
+<h2 align="center">⚙️ Tech Stack</h2>
 <p align="center">
-  ## ⚙️ Tech Stack
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
@@ -22,22 +21,24 @@
 
 ---
 
-
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  ## 📊 GitHub Stats
   <img src="https://github-readme-stats.vercel.app/api?username=Buzzwavemed&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buzzwavemed&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-
+<h2 align="center">📫 Connect with Me</h2>
 <p align="center">
-  ## 📫 Connect with Me
-  <a href="https://www.linkedin.com/in/#/" target="_blank">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
+
+---
+
+
